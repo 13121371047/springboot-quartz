@@ -11,7 +11,7 @@ import org.springframework.util.ReflectionUtils;
 import java.lang.reflect.Method;
 
 /**
- *
+ *	添加修改测试
  * 将Spring的对象注入到Quartz Job 1
  */
 public class AdaptableJobFactory implements JobFactory {
